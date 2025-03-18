@@ -1,5 +1,5 @@
 # 💫 About Me:
-A small developer looking to learn more about programming and becoming<br>a game developer so I can make games for others to enjoy.
+A small programmer looking to learn more about programming and becoming<br>a game programmer so I can make games for others to enjoy.
 
 
 ## 🌐 Socials:
